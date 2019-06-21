@@ -74,7 +74,7 @@ class Dataset(BaseDataset):
                                     Source="Hattori1960",
                                 )
 
-    def read_csv(self, fname="AinuHattoriChiri.Sheet1.csv", **kw):
+    def read_csv(self, fname="AinuHattoriChiri.Sheet1.csv"):
         header = None
         for i, row in enumerate(self.raw.read_csv(fname)):
             row = [c.strip() for c in row]
@@ -89,7 +89,6 @@ class Dataset(BaseDataset):
                         if words:
                             assert concept
                             wl.words[concept] = (words, [])
-                            words, concept = None, None
                         words = row[j + 2].split(";")
                         concept = header[j]
                     else:
