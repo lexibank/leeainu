@@ -1,8 +1,15 @@
-# leeainu
+# Evolution of the Ainu Language in Space and Time  
 
 Cite the source dataset as
 
-> 
+> Lee S, Hasegawa T (2013) Evolution of the Ainu Language in Space and Time. PLOS ONE 8(4): e62243. https://doi.org/10.1371/journal.pone.0062243
+
+This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+
+Available online at https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062243
+
+Conceptlists in Concepticon:
+- [Lee-2013-200](http://concepticon.clld.org/contributions/Lee-2013-200)
 
 ## Statistics
 

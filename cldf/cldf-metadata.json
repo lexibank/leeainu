@@ -1,15 +1,18 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "",
+    "dc:bibliographicCitation": "Lee S, Hasegawa T (2013) Evolution of the Ainu Language in Space and Time. PLOS ONE 8(4): e62243. https://doi.org/10.1371/journal.pone.0062243",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
-    "dc:identifier": "",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Lee-2013-200"
+    ],
+    "dc:identifier": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062243",
     "dc:isVersionOf": null,
-    "dc:license": null,
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "leeainu",
+    "dc:title": "Evolution of the Ainu Language in Space and Time  ",
     "rdf:ID": "leeainu",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
