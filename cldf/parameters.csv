@@ -1,200 +1,200 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-i_l0,I,1209,I
-thou_l0,thou,1215,THOU
-we_l0,we,1212,WE
-this_l2,this,1214,THIS
-that_l1,that,78,THAT
-who_l0,who,1235,WHO
-what_l0,what,1236,WHAT
-not_l0,not,1240,NOT
-all_l0,all,98,ALL
-many_l1,many,1198,MANY
-one_l0,one,1493,ONE
-two_l0,two,1498,TWO
-big_l0,big,1202,BIG
-long_l0,long,1203,LONG
-small_l0,small,1246,SMALL
-woman_l0,woman,962,WOMAN
-man_l1,man,1554,MAN
-person_l0,person,683,PERSON
-fish_l0,fish,227,FISH
-bird_l0,bird,937,BIRD
-dog_l1,dog,2009,DOG
-louse_l0,louse,1392,LOUSE
-tree_l0,tree,906,TREE
-seed_l1,seed,714,SEED
-leaf_l0,leaf,628,LEAF
-root_l0,root,670,ROOT
-bark_l0,bark,1204,BARK
-skin_l0,skin,763,SKIN
-meat_l0,meat,634,MEAT
-blood_l0,blood,946,BLOOD
-bone_l0,bone,1394,BONE
-greasefat_l0,grease(fat),,
-egg_l0,egg,744,EGG
-horn_l0,horn,,
-tail_l0,tail,1220,TAIL
-feather_l0,feather,1201,FEATHER
-hair_l0,hair,1040,HAIR
-head_l0,head,1256,HEAD
-ear_l0,ear,1247,EAR
-eye_l0,eye,1248,EYE
-nose_l0,nose,1221,NOSE
-mouth_l0,mouth,674,MOUTH
-tooth_l0,tooth,1380,TOOTH
-tongue_l0,tongue,1205,TONGUE
-claw_l0,claw,72,CLAW
-foot_l0,foot,1301,FOOT
-knee_l0,knee,1371,KNEE
-hand_l0,hand,1277,HAND
-belly_l0,belly,1251,BELLY
-neck_l0,neck,1333,NECK
-breast_l0,breast,1402,BREAST
-heart_l0,heart,1223,HEART
-liver_l0,liver,1224,LIVER
-todrink_l0,to drink,,
-toeat_l0,to eat,,
-tobite_l0,to bite,,
-tosee_l0,to see,,
-tohear_l0,to hear,,
-toknow_l0,to know,,
-tosleep_l0,to sleep,,
-todie_l0,to die,,
-tokill_l0,to kill,,
-toswim_l0,to swim,,
-tofly_l0,to fly,,
-towalk_l0,to walk,,
-tocome_l0,to come,,
-tolie_l0,to lie,,
-tosit_l0,to sit,,
-tostand_l0,to stand,,
-togive_l0,to give,,
-tosay_l0,to say,,
-sun_l0,sun,1343,SUN
-moon_l0,moon,1313,MOON
-star_l0,star,1430,STAR
-water_l0,water,948,WATER
-torain_l0,to rain,,
-stone_l0,stone,857,STONE
-sand_l0,sand,671,SAND
-earth_l0,earth,,
-cloud_l0,cloud,1489,CLOUD
-smoke_l1,smoke,,
-fire_l0,fire,221,FIRE
-ashes_l0,ashes,,
-toburn_l0,to burn,,
-path_l0,path,2252,PATH
-mountain_l0,mountain,639,MOUNTAIN
-red_l0,red,156,RED
-green_l0,green,1425,GREEN
-yellow_l0,yellow,1424,YELLOW
-white_l0,white,1335,WHITE
-black_l0,black,163,BLACK
-night_l0,night,1233,NIGHT
-hot_l0,hot,1286,HOT
-cold_l0,cold,1287,COLD
-full_l0,full,1429,FULL
-new_l0,new,1231,NEW
-good_l0,good,1035,GOOD
-round_l0,round,1395,ROUND
-dry_l0,dry,1398,DRY
-name_l0,name,1405,NAME
-ye_l0,ye,,
-he_l0,he,1211,HE
-they_l0,they,817,THEY
-how_l0,how,1239,HOW
-when_l0,when,1238,WHEN
-where_l0,where,1237,WHERE
-here_l0,here,136,HERE
-there_l0,there,1937,THERE
-other_l0,other,197,OTHER
-three_l0,three,492,THREE
-four_l0,four,1500,FOUR
-five_l0,five,493,FIVE
-few_l0,few,1242,FEW
-sky_l0,sky,1732,SKY
-day_l1,day,,
-fog_l0,fog,249,FOG
-wind_l0,wind,960,WIND
-flow_l0,flow,2003,FLOW
-sea_l0,sea,1474,SEA
-lake_l0,lake,624,LAKE
-river_l0,river,666,RIVER
-wet_l0,wet,1726,WET
-wash_l0,wash,1453,WASH
-snake_l0,snake,730,SNAKE
-worm_l0,worm,1219,WORM
-back_l0,back,1291,BACK
-leg_l0,leg,1297,LEG
-arm_l1,arm,1673,ARM
-wing_l0,wing,1257,WING
-lip_l0,lip,478,LIP
-fur_l0,fur,580,FUR
-navel_l0,navel,1838,NAVEL
-guts_l0,guts,1334,GUTS
-saliva_l1,saliva,1503,SALIVA
-milk_l0,milk,635,MILK
-fruit_l0,fruit,1507,FRUIT
-flower_l0,flower,239,FLOWER
-grass_l0,grass,606,GRASS
-with_l0,with,1340,WITH
-in_l0,in,1460,IN
-at_l0,at,1461,AT
-if_l0,if,1459,IF
-mother_l0,mother,1216,MOTHER
-father_l0,father,1217,FATHER
-husband_l0,husband,1200,HUSBAND
-wife_l0,wife,1199,WIFE
-salt_l0,salt,1274,SALT
-ice_l0,ice,617,ICE
-snow_l0,snow,784,SNOW
-freeze_l0,freeze,1431,FREEZE
-child_l0,child,2099,CHILD
-dark_l0,dark,706,DARK
-cut_l0,cut,1432,CUT
-wide_l0,wide,1243,WIDE
-narrow_l0,narrow,1267,NARROW
-far_l0,far,1406,FAR
-near_l0,near,1942,NEAR
-thick_l0,thick,1244,THICK
-thin_l0,thin,2308,THIN
-short_l0,short,1645,SHORT
-heavy_l0,heavy,1210,HEAVY
-dull_l0,dull,1397,DULL
-sharp_l0,sharp,1396,SHARP
-dirty_l0,dirty,1230,DIRTY
-bad_l0,bad,1292,BAD
-rotten_l0,rotten,1728,ROTTEN
-smooth_l0,smooth,1234,SMOOTH
-straight_l0,straight,1404,STRAIGHT
-left_l1,left,244,LEFT
-right_l0,right,1019,RIGHT
-old_l0,old,1229,OLD
-torub_l0,to rub,,
-topull_l0,to pull,,
-topush_l0,to push,,
-tothrow_l0,to throw,,
-tohit_l0,to hit,,
-tosplit_l1,to split,,
-topiercetostab_l0,to pierce (to stab),,
-todig_l0,to dig,,
-totie_l0,to tie,,
-tosew_l0,to sew,,
-tofall_l0,to fall,,
-toswell_l0,to swell,,
-tothink_l1,to think,,
-tosing_l0,to sing,,
-tosmell_l0,to smell,,
-tovomit_l0,to vomit,,
-tosuck_l0,to suck,,
-toblow_l1,to blow,,
-tofear_l0,to fear,,
-tosqueeze_l0,to squeeze,,
-tohold_l0,to hold,,
-below_l0,below,,
-above_l0,above,1741,ABOVE
-ripe_l0,ripe,178,RIPE
-dust_l0,dust,2,DUST
-tolive_l0,to live,,
-rope_l0,rope,1218,ROPE
-year_l0,year,1226,YEAR
+i,I,1209,I
+thou,thou,1215,THOU
+we,we,1212,WE
+this,this,1214,THIS
+that,that,78,THAT
+who,who,1235,WHO
+what,what,1236,WHAT
+not,not,1240,NOT
+all,all,98,ALL
+many,many,1198,MANY
+one,one,1493,ONE
+two,two,1498,TWO
+big,big,1202,BIG
+long,long,1203,LONG
+small,small,1246,SMALL
+woman,woman,962,WOMAN
+man,man,1554,MAN
+person,person,683,PERSON
+fish,fish,227,FISH
+bird,bird,937,BIRD
+dog,dog,2009,DOG
+louse,louse,1392,LOUSE
+tree,tree,906,TREE
+seed,seed,714,SEED
+leaf,leaf,628,LEAF
+root,root,670,ROOT
+bark,bark,1204,BARK
+skin,skin,763,SKIN
+meat,meat,634,MEAT
+blood,blood,946,BLOOD
+bone,bone,1394,BONE
+greasefat,grease(fat),323,FAT (ORGANIC SUBSTANCE)
+egg,egg,744,EGG
+horn,horn,1393,HORN (ANATOMY)
+tail,tail,1220,TAIL
+feather,feather,1201,FEATHER
+hair,hair,1040,HAIR
+head,head,1256,HEAD
+ear,ear,1247,EAR
+eye,eye,1248,EYE
+nose,nose,1221,NOSE
+mouth,mouth,674,MOUTH
+tooth,tooth,1380,TOOTH
+tongue,tongue,1205,TONGUE
+claw,claw,72,CLAW
+foot,foot,1301,FOOT
+knee,knee,1371,KNEE
+hand,hand,1277,HAND
+belly,belly,1251,BELLY
+neck,neck,1333,NECK
+breast,breast,1402,BREAST
+heart,heart,1223,HEART
+liver,liver,1224,LIVER
+todrink,to drink,1401,DRINK
+toeat,to eat,1336,EAT
+tobite,to bite,1403,BITE
+tosee,to see,1409,SEE
+tohear,to hear,1408,HEAR
+toknow,to know,1410,KNOW (SOMETHING)
+tosleep,to sleep,1585,SLEEP
+todie,to die,1494,DIE
+tokill,to kill,1417,KILL
+toswim,to swim,1439,SWIM
+tofly,to fly,1441,FLY (MOVE THROUGH AIR)
+towalk,to walk,1443,WALK
+tocome,to come,1446,COME
+tolie,to lie,1411,LIE (REST)
+tosit,to sit,1416,SIT
+tostand,to stand,1442,STAND
+togive,to give,1447,GIVE
+tosay,to say,1458,SAY
+sun,sun,1343,SUN
+moon,moon,1313,MOON
+star,star,1430,STAR
+water,water,948,WATER
+torain,to rain,1253,RAIN (RAINING)
+stone,stone,857,STONE
+sand,sand,671,SAND
+earth,earth,1228,EARTH (SOIL)
+cloud,cloud,1489,CLOUD
+smoke,smoke,778,SMOKE (EXHAUST)
+fire,fire,221,FIRE
+ashes,ashes,646,ASH
+toburn,to burn,2102,BURN
+path,path,2252,PATH
+mountain,mountain,639,MOUNTAIN
+red,red,156,RED
+green,green,1425,GREEN
+yellow,yellow,1424,YELLOW
+white,white,1335,WHITE
+black,black,163,BLACK
+night,night,1233,NIGHT
+hot,hot,1286,HOT
+cold,cold,1287,COLD
+full,full,1429,FULL
+new,new,1231,NEW
+good,good,1035,GOOD
+round,round,1395,ROUND
+dry,dry,1398,DRY
+name,name,1405,NAME
+ye,ye,1213,YOU
+he,he,1211,HE
+they,they,817,THEY
+how,how,1239,HOW
+when,when,1238,WHEN
+where,where,1237,WHERE
+here,here,136,HERE
+there,there,1937,THERE
+other,other,197,OTHER
+three,three,492,THREE
+four,four,1500,FOUR
+five,five,493,FIVE
+few,few,1242,FEW
+sky,sky,1732,SKY
+day,day,1225,DAY (NOT NIGHT)
+fog,fog,249,FOG
+wind,wind,960,WIND
+flow,flow,2003,FLOW
+sea,sea,1474,SEA
+lake,lake,624,LAKE
+river,river,666,RIVER
+wet,wet,1726,WET
+wash,wash,1453,WASH
+snake,snake,730,SNAKE
+worm,worm,1219,WORM
+back,back,1291,BACK
+leg,leg,1297,LEG
+arm,arm,1673,ARM
+wing,wing,1257,WING
+lip,lip,478,LIP
+fur,fur,580,FUR
+navel,navel,1838,NAVEL
+guts,guts,1334,GUTS
+saliva,saliva,1503,SALIVA
+milk,milk,635,MILK
+fruit,fruit,1507,FRUIT
+flower,flower,239,FLOWER
+grass,grass,606,GRASS
+with,with,1340,WITH
+in,in,1460,IN
+at,at,1461,AT
+if,if,1459,IF
+mother,mother,1216,MOTHER
+father,father,1217,FATHER
+husband,husband,1200,HUSBAND
+wife,wife,1199,WIFE
+salt,salt,1274,SALT
+ice,ice,617,ICE
+snow,snow,784,SNOW
+freeze,freeze,1431,FREEZE
+child,child,2099,CHILD
+dark,dark,706,DARK
+cut,cut,1432,CUT
+wide,wide,1243,WIDE
+narrow,narrow,1267,NARROW
+far,far,1406,FAR
+near,near,1942,NEAR
+thick,thick,1244,THICK
+thin,thin,2308,THIN
+short,short,1645,SHORT
+heavy,heavy,1210,HEAVY
+dull,dull,379,BLUNT
+sharp,sharp,1396,SHARP
+dirty,dirty,1230,DIRTY
+bad,bad,1292,BAD
+rotten,rotten,1728,ROTTEN
+smooth,smooth,1234,SMOOTH
+straight,straight,1404,STRAIGHT
+left,left,244,LEFT
+right,right,1019,RIGHT
+old,old,1229,OLD
+torub,to rub,1449,RUB
+topull,to pull,1455,PULL
+topush,to push,1452,PUSH
+tothrow,to throw,1456,THROW
+tohit,to hit,353,STRIKE
+tosplit,to split,1437,SPLIT
+topiercetostab,to pierce (to stab),398,PIERCE
+todig,to dig,1418,DIG
+totie,to tie,1917,TIE
+tosew,to sew,1457,SEW
+tofall,to fall,1280,FALL
+toswell,to swell,1573,SWELL
+tothink,to think,2271,THINK
+tosing,to sing,1261,SING
+tosmell,to smell,2124,SMELL
+tovomit,to vomit,1278,VOMIT
+tosuck,to suck,1421,SUCK
+toblow,to blow,175,BLOW (OF WIND)
+tofear,to fear,1419,FEAR (BE AFRAID)
+tosqueeze,to squeeze,1414,SQUEEZE
+tohold,to hold,1448,HOLD
+below,below,1485,BELOW OR UNDER
+above,above,1741,ABOVE
+ripe,ripe,178,RIPE
+dust,dust,2,DUST
+tolive,to live,1422,BE ALIVE
+rope,rope,1218,ROPE
+year,year,1226,YEAR
