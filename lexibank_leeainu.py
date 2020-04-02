@@ -15,28 +15,23 @@ class Dataset(BaseDataset):
         self.raw_dir.xls2csv("AinuHattoriChiri.xlsx")
 
     def cmd_makecldf(self, args):
-        meaning_map = {}
         wordlists = list(self.read_csv())
         cogsets = collections.defaultdict(lambda: collections.defaultdict(list))
+
+        concepts = args.writer.add_concepts(
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english), lookup_factory="Name"
+        )
+        args.writer.add_concept(ID=slug("YEAR"), Name="year", Concepticon_ID="1226")
+        concepts["year"] = "year"
+
+        args.writer.add_sources()
 
         for wl in wordlists:
             for concept, (words, cogids) in wl.words.items():
                 if len(cogids) == 1:
                     cogsets[concept][cogids[0]].append(words[0])
 
-        args.writer.add_sources(*self.raw_dir.read_bib())
-        lmap = args.writer.add_languages(lookup_factory='Name')
-
-        for concept in self.concepts:
-            args.writer.add_concept(
-                ID=slug(concept["ENGLISH"]),
-                Name=concept["ENGLISH"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-            )
-            meaning_map[slug(concept["ENGLISH"])] = slug(concept["ENGLISH"])
-
-        args.writer.add_concept(ID=slug("YEAR"), Name="year", Concepticon_ID="1226")
-        meaning_map["year"] = "year"
+        lmap = args.writer.add_languages(lookup_factory="Name")
 
         for wl in wordlists:
             for concept, (words, cogids) in wl.words.items():
@@ -61,7 +56,7 @@ class Dataset(BaseDataset):
                         word = word[1:-1].strip()
                     for row in args.writer.add_lexemes(
                         Language_ID=lmap[wl.language],
-                        Parameter_ID=meaning_map[slug(concept)],
+                        Parameter_ID=concepts[concept],
                         Value=word,
                         Source=["Hattori1960"],
                     ):
