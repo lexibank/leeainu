@@ -1,4 +1,4 @@
-# Evolution of the Ainu Language in Space and Time  
+# CLDF dataset derived from Lee and Hasegawa's "Evolution of the Ainu Language in Space and Time" from 2013
 
 Cite the source dataset as
 
