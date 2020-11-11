@@ -1,9 +1,10 @@
-import pathlib
-import itertools
 import collections
+import itertools
+import pathlib
 
-from pylexibank import Dataset as BaseDataset
 from clldutils.misc import slug
+from pylexibank import Dataset as BaseDataset
+
 from cogsets import COGSET_MAP
 
 
