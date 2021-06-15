@@ -5,7 +5,14 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
+    "creators": [
+        {
+            "name": "Lee, Sean"
+        },
+        {
+            "name": "Hasegawa, Toshikazu"
+        }
+    ],
     "contributors": [
         {
             "name": "Christoph Rzymski",

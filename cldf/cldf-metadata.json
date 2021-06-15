@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/leeainu",
             "rdf:type": "prov:Entity",
-            "dc:created": "7c14373",
+            "dc:created": "4e1ee19",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.4-7-gec1a29225c",
             "dc:title": "Glottolog"
         },
         {
