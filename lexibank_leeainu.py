@@ -4,6 +4,7 @@ import pathlib
 
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
+from pylexibank import FormSpec
 
 from cogsets import COGSET_MAP
 
@@ -11,6 +12,9 @@ from cogsets import COGSET_MAP
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "leeainu"
+    form_spec = FormSpec(
+            replacements=[("#", "")]
+            )
 
     def cmd_download(self, args):
         self.raw_dir.xls2csv("AinuHattoriChiri.xlsx")

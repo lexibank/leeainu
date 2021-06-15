@@ -1,0 +1,80 @@
+Grapheme	IPA	Frequence	Codepoints
+a	a	1511	U+0061
+k	k	1456	U+006b
+n	n	1436	U+006e
+r	r	1425	U+0072
+p	p	1087	U+0070
+e	e	1063	U+0065
+t	t	1034	U+0074
+s	s	945	U+0073
+i	i	903	U+0069
+u	u	834	U+0075
+á	á/a	758	U+00e1
+o	o	678	U+006f
+y	y/j	594	U+0079
+h	h	589	U+0068
+m	m	509	U+006d
+ú	ú/u	461	U+00fa
+í	í/i	376	U+00ed
+c	c	330	U+0063
+é	é/e	306	U+00e9
+ó	ó/o	280	U+00f3
+'a	a	253	U+0027 U+0061
+'o	o	232	U+0027 U+006f
+'e	e	229	U+0027 U+0065
+nn	nː	181	U+006e U+006e
+w	w	181	U+0077
+'á	á/a	149	U+0027 U+00e1
+'u	u	141	U+0027 U+0075
+_	+	126	U+005f
+kk	kː	97	U+006b U+006b
+'i	i	78	U+0027 U+0069
+aa	aː	73	U+0061 U+0061
+'ú	ú/u	62	U+0027 U+00fa
+ee	eː	42	U+0065 U+0065
+tt	tː	40	U+0074 U+0074
+ii	iː	38	U+0069 U+0069
+'ó	ó/o	37	U+0027 U+00f3
+oo	oː	35	U+006f U+006f
+'é	é/e	33	U+0027 U+00e9
+uu	uː	33	U+0075 U+0075
+ɴ	ɴ	27	U+0274
+pp	pː	20	U+0070 U+0070
+ós	ó/o s	13	U+00f3 U+0073
+rs	r s	12	U+0072 U+0073
+'í	í/i	11	U+0027 U+00ed
+*	NULL	11	U+002a
+ms	m s	8	U+006d U+0073
+K	k	8	U+004b
+ss	s s	7	U+0073 U+0073
+és	é/e s	6	U+00e9 U+0073
+ps	p s	5	U+0070 U+0073
+^kúnne)cúp	k ú/u nː e + ts ú/u p	5	U+006b U+00fa U+006e U+006e U+0065 U+0029 U+0063 U+00fa U+0070
+ks	k s	3	U+006b U+0073
+'ós	ʔ ó/o s	3	U+0027 U+00f3 U+0073
+'ów	ʔ ó/o w	3	U+0027 U+00f3 U+0077
+^ci'ókay[excl.]	ts i ʔ ó k ai	3	U+0063 U+0069 U+0027 U+00f3 U+006b U+0061 U+0079 U+005b U+0065 U+0078 U+0063 U+006c U+002e U+005d
+hs	h s	3	U+0068 U+0073
+^'anókay[incl.]	ʔ a n ó/o k ai	2	U+0027 U+0061 U+006e U+00f3 U+006b U+0061 U+0079 U+005b U+0069 U+006e U+0063 U+006c U+002e U+005d
+tókam)cup	t ó/o k a m + ts u p	2	U+0074 U+00f3 U+006b U+0061 U+006d U+0029 U+0063 U+0075 U+0070
+-	NULL	2	U+002d
+'c	c	2	U+0027 U+0063
+'e'e	ʔ e ʔ e	2	U+0027 U+0065 U+0027 U+0065
+^ci'okáy[excl.]	ts i ʔ o k áy/ai	1	U+0063 U+0069 U+0027 U+006f U+006b U+00e1 U+0079 U+005b U+0065 U+0078 U+0063 U+006c U+002e U+005d
+^'a'okáy[incl.]	ʔ a ʔ o k áy/ai	1	U+0027 U+0061 U+0027 U+006f U+006b U+00e1 U+0079 U+005b U+0069 U+006e U+0063 U+006c U+002e U+005d
+éh	éh/e	1	U+00e9 U+0068
+^ci'ókay	ts i ʔ ó/o k ay/ai
+'utár[excl.]	ʔ u t á/a r	1	U+0063 U+0069 U+0027 U+00f3 U+006b U+0061 U+0079 U+0020 U+0027 U+0075 U+0074 U+00e1 U+0072 U+005b U+0065 U+0078 U+0063 U+006c U+002e U+005d
+^'a'ókay[incl.]	ʔ a ʔ ó/o k ay/ai	1	U+0027 U+0061 U+0027 U+00f3 U+006b U+0061 U+0079 U+005b U+0069 U+006e U+0063 U+006c U+002e U+005d
+^cóka[excl.]	ts ó/o k a	1	U+0063 U+00f3 U+006b U+0061 U+005b U+0065 U+0078 U+0063 U+006c U+002e U+005d
+^'a'oká[incl.]	ʔ a ʔ o k á/a	1	U+0027 U+0061 U+0027 U+006f U+006b U+00e1 U+005b U+0069 U+006e U+0063 U+006c U+002e U+005d
+óss	ó/o sː	1	U+00f3 U+0073 U+0073
+*s	s	1	U+002a U+0073
+ŋ	ŋ	1	U+014b
+*h	h	1	U+002a U+0068
+^'anutári[incl.]	ʔ a n u t á r i	1	U+0027 U+0061 U+006e U+0075 U+0074 U+00e1 U+0072 U+0069 U+005b U+0069 U+006e U+0063 U+006c U+002e U+005d
+k:	kː	1	U+006b U+003a
+^ci'okay[excl.]	ts i ʔ o k ay/ai	1	U+0063 U+0069 U+0027 U+006f U+006b U+0061 U+0079 U+005b U+0065 U+0078 U+0063 U+006c U+002e U+005d
+^'anutari[incl.]	ʔ a n u t a r i	1	U+0027 U+0061 U+006e U+0075 U+0074 U+0061 U+0072 U+0069 U+005b U+0069 U+006e U+0063 U+006c U+002e U+005d
+éw	éw/eu	1	U+00e9 U+0077
+'y	ʔ y	1	U+0027 U+0079
