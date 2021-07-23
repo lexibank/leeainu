@@ -2,19 +2,16 @@ import collections
 import itertools
 import pathlib
 
+import pylexibank
 from clldutils.misc import slug
-from pylexibank import Dataset as BaseDataset
-from pylexibank import FormSpec
 
 from cogsets import COGSET_MAP
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "leeainu"
-    form_spec = FormSpec(
-            replacements=[("#", "")]
-            )
+    form_spec = pylexibank.FormSpec(replacements=[("#", "")])
 
     def cmd_download(self, args):
         self.raw_dir.xls2csv("AinuHattoriChiri.xlsx")

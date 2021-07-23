@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/leeainu",
             "rdf:type": "prov:Entity",
-            "dc:created": "4e1ee19",
+            "dc:created": "49ba078",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-7-gec1a29225c",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         },
         {
@@ -33,16 +33,20 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0.0",
+            "dc:created": "v2.1.0",
             "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.9.5"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -57,6 +61,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
             "dc:extent": 3980,
             "tableSchema": {
                 "columns": [
