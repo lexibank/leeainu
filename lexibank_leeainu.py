@@ -11,6 +11,7 @@ from cogsets import COGSET_MAP
 class Dataset(pylexibank.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "leeainu"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = pylexibank.FormSpec(replacements=[("#", "")])
 
     def cmd_download(self, args):

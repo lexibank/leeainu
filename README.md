@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 19
-- **Concepts:** 199
+- **Varieties:** 19 (linked to 2 different Glottocodes)
+- **Concepts:** 199 (linked to 199 different Concepticon concept sets)
 - **Lexemes:** 3,980
 - **Sources:** 1
 - **Synonymy:** 1.06
@@ -38,14 +38,14 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.04
 - **Invalid lexemes:** 0
 - **Tokens:** 19,003
-- **Segments:** 44 (0 BIPA errors, 0 CTLS sound class errors, 44 CLTS modified)
+- **Segments:** 44 (0 BIPA errors, 0 CLTS sound class errors, 44 CLTS modified)
 - **Inventory size (avg):** 28.89
 
 # Contributors
 
 Name | GitHub user | Description | Role
  --- | --- | --- | --- |
-Christoph Rzymski | @chrzyki | patron | Other
+Christoph Rzymski | @chrzyki | patron | Editor
 Lee, Sean | | data collection | Author
 Hasegawa, Toshikazu | | data collection | Author
 
